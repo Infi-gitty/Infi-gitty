@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakash Roy (aka Infi-gitty)</h1>
+<h1 align="center">Hi 👋, I'm Prakash Roy (aka Infi)</h1>
 <p align="center">
 💻 Developer | 💡 Curious Coder | 🌍 Based in Kolkata, India
 </p>
