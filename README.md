@@ -21,9 +21,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A6FF&center=true&vCenter=true&width=435&lines=Yo!+I'm+Prakash!;Chaotic+coder+but+somehow+it+works.;Welcome+to+my+GitHub+🧪" alt="Typing SVG" />
+</p>
 
-![Streaks](https://streak-stats.demolab.com/?user=Infi-gitty&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Infi-gitty&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
