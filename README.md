@@ -32,6 +32,8 @@
 
 
 ---
+![Streaks](https://streak-stats.demolab.com/?user=Infi-gitty&theme=dark&hide_border=true)
+---
 
 ### 🚀 Projects Spotlight
 
