@@ -10,7 +10,7 @@
 - 🔭 Currently building feature-rich Discord bots (music, interaction, autocomplete)
 - 🌱 Learning more about full-stack dev & open-source contributions
 - ⚡ Fun fact: I might call myself dumb but I build smart things
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/prakash-roy-58200721a) | [Twitter](https://twitter.com/Infi_nvm)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/prakash-roy-949350246/) | [Twitter](https://twitter.com/Infi_nvm)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prakash-roy-58200721a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/prakash-roy-949350246/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/Infi_nvm)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/infi_nvm/)
 
