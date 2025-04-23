@@ -23,6 +23,10 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
+## ⚙️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,vscode)
+
+---
 
 ### 📈 GitHub Stats
 
