@@ -13,16 +13,6 @@
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/prakash-roy-949350246/) | [Twitter](https://twitter.com/Infi_nvm)
 
 ---
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
----
 ## ⚙️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,vscode)
 
