@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A6FF&center=true&vCenter=true&width=435&lines=Building+cool+bots+%26+web+apps...;Loving+chaotic+code+since+day+1.;Let%27s+build+something+awesome+👾" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A6FF&center=true&vCenter=true&multiline=true&width=435&lines=Yo!+I'm+Prakash+Roy+(aka+Infi)!;Chaotic+coder+but+somehow+it+works.;Welcome+to+my+GitHub+🧪" />
 </p>
 
 ---
@@ -30,9 +30,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=Infi-gitty&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Infi-gitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
