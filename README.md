@@ -21,9 +21,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight)
-  <br/>
-  ![Streaks](https://streak-stats.demolab.com/?user=Infi-gitty&theme=dark&hide_border=true)
+![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight)
+
+![Streaks](https://streak-stats.demolab.com/?user=Infi-gitty&theme=dark&hide_border=true)
 </p>
 
 ---
