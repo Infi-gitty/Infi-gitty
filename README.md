@@ -21,18 +21,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=radical" alt="Infi-gitty's GitHub stats"/>
+  ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight)
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infi-gitty&theme=radical" alt="Infi-gitty's GitHub streak"/>
+  ![Streaks](https://streak-stats.demolab.com/?user=Infi-gitty&theme=dark&hide_border=true)
 </p>
 
----
-
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight)
-
-
----
-![Streaks](https://streak-stats.demolab.com/?user=Infi-gitty&theme=dark&hide_border=true)
 ---
 
 ### 🚀 Projects Spotlight
