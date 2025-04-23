@@ -28,6 +28,11 @@
 
 ---
 
+![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight)
+
+
+---
+
 ### 🚀 Projects Spotlight
 
 - 🎵 [Music Bot](https://github.com/Infi-gitty/Music-bot) — A Discord bot that plays music using slash commands with thumbnail embeds, buttons & YouTube integration
