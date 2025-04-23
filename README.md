@@ -4,11 +4,6 @@
   💻 Developer • 🎯 Curious Coder • 🏙️ Based in Kolkata, India
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infi-gitty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Infi-gitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ---
 
